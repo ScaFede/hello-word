@@ -1,0 +1,9 @@
+{
+    "name": "acme/hello-world",
+    "description": "Testing my future thesis for master degree",
+    "version": "1.0.0",
+    "require": {
+        "php": ">=7.4",
+        "monolog/monolog": "2.0.*"
+    }
+}
